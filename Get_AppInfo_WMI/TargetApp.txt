@@ -1,0 +1,3 @@
+Trend Micro Titanium
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Google Chrome
